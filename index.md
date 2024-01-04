@@ -8,15 +8,15 @@ page_sections:
     logo: "/uploads/2018/06/21/forestry-full.svg"
     navigation:
       - link: "/"
-        link_text: Ubuild
+        link_text: 메뉴1
       - link: "#swap"
-        link_text: Swap
+        link_text: 메뉴2
       - link: "#customize"
-        link_text: Customize
+        link_text: 메뉴3
       - link: "#responsive"
-        link_text: Responsive
+        link_text: 메뉴4
       - link: "#blocks"
-        link_text: Blocks
+        link_text: 메뉴5
     cta:
       url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
       button_text: Import
