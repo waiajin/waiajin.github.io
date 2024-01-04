@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+date: 2024-01-042T23:00:00.000+00:00
 page_sections:
   - template: navigation-header-w-button
     block: header-2
@@ -23,14 +23,12 @@ page_sections:
   - template: hero-banner-w-image
     block: hero-2
     slug: features
-    headline: uBuild <br><strong>design blocks</strong>
-    content:
-      The tool that allows you to build beautiful sites<br>all inside Forestry's
-      content manager.
+    headline: Jo<br><strong>A Jin</strong>
+    content: 블로그 입니다.
     cta:
       enabled: true
-      url: https://github.com/forestryio/ubuild-jekyll
-      button_text: "See on GitHub "
+      url: https://github.com/waiajin
+      button_text: "GitHub로 이동"
     image:
       image: "/uploads/2018/06/21/product-shot-1.png"
       alt_text: Product Shot
@@ -60,9 +58,7 @@ page_sections:
     slug: responsive
     headline: 16 Fully Responsive Design Blocks
     content: |
-      The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-      create new sites and make them fully customizable.
+      아마 관련된 내용은 여기에 들어갈 것으로 보이고 링크를 달때는 <a href="https://forestry.io">이렇게</a> 코드를 이용해서 답니다.
   - template: full-width-media-element
     block: media-1
     image: "/uploads/2018/06/21/theme.png"
@@ -76,5 +72,5 @@ page_sections:
       article</a> and create your own Blocks.</p></li><li><p>Add and customize the available Blocks and preview them as you go along.</p></li></ol>
   - template: simple-footer
     block: footer-1
-    content: Made with ❤︎ in Canada
+    content: Made with ❤︎ Jo A jin
 ---
