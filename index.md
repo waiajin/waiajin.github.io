@@ -40,27 +40,21 @@ page_sections:
     media_alignment: Left
     slug: swap
     headline:
-      <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-      class="light">the Blocks to create sites quickly</span>
-    content:
-      Quickly assemble and create custom sites with 16 design blocks for seven
-      different sections.
+      <strong>블록 &amp; 블록<span class="light">&nbsp;</span></strong><span
+      class="light">에 대한 내용은 여기에</span>
+    content: 간략한 세부 설명 요약은 이러이러하다.
     media:
       image: "/uploads/2018/06/21/blocks-split.png"
-      alt_text: uBuild Blocks Mock-Up
+      alt_text: 블록왼쪽에 들어가는 이미지에 대한 설명
   - template: content-feature
     block: feature-1
     media_alignment: Right
     slug: customize
-    headline:
-      <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-      edits throughout your new site</span>
-    content:
-      Each block comes with custom Front Matter that can be edited in
-      Forestry CMS.
+    headline: <strong>블록2 진한글씨</strong><span class="light">&nbsp;에 대해서 설명</span>
+    content: 블록2에 대한 자세한 세부 설명 및 요약 내용은 여기서 확인하세요.
     media:
       image: "/uploads/2018/06/21/edit.gif"
-      alt_text: Customize Blocks
+      alt_text: 블록2에 들어가는 이미지에 대한 설명
   - template: 1-column-text
     block: one-column-1
     slug: responsive
