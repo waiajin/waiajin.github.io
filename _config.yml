@@ -1,12 +1,10 @@
-title: uBuild Design Blocks
-author: Forestry.io
-email: support@forestry.io
+title: Jo A jin blog
+author: waiajin.io
+email: ajinjo@waikorea.com
 description: >-
-  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature.
-  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI
-  that will empower content editors to construct their own webpages.
+  예시 샘플 홈페이지 입니다.
 baseurl: "/ubuild-jekyll" # the subpath of your site, e.g. /blog
-url: "" # your site's origin, e.g. https://forestry.io
+url: "" # your site's origin, e.g. https://waiajin.io
 
 # Build settings
 defaults:
@@ -18,4 +16,3 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-menus
-
