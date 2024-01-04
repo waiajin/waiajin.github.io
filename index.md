@@ -56,20 +56,18 @@ page_sections:
   - template: 1-column-text
     block: one-column-1
     slug: responsive
-    headline: 16 Fully Responsive Design Blocks
+    headline: 중간에 오는 헤드라인입니다.
     content: |
       아마 관련된 내용은 여기에 들어갈 것으로 보이고 링크를 달때는 <a href="https://forestry.io">이렇게</a> 코드를 이용해서 답니다.
   - template: full-width-media-element
     block: media-1
     image: "/uploads/2018/06/21/theme.png"
-    caption: All Available Blocks
+    caption: 하단에 보이는 이미지
     slug: blocks
   - template: detail-content
     block: text-1
-    headline: Steps to Build a Site!
-    content:
-      <p>uBuild is an open-source Jekyll based demo that doubles as a builder tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-      article</a> and create your own Blocks.</p></li><li><p>Add and customize the available Blocks and preview them as you go along.</p></li></ol>
+    headline: 예시 방법입니다
+    content: <p>아래에서 설명하는 세가지 방법을 따라주세요.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">첫번째는 링크를 통해 확인합니다</a>.</p></li><li><p>두번째는 <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">링크</a>를 따라 이동합니다.</p></li><li><p>세번째는 이것입니다.</p></li></ol>
   - template: simple-footer
     block: footer-1
     content: Made with ❤︎ Jo A jin
