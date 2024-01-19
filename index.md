@@ -24,7 +24,7 @@ page_sections:
     block: hero-2
     slug: features
     headline: Jo<br><strong>A Jin</strong>
-    content: 블로그 입니다..
+    content: 블로그 입니다.
     cta:
       enabled: true
       url: https://github.com/waiajin
